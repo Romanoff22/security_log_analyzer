@@ -1,0 +1,2 @@
+username,source_ip,failed_attempts,success_time,severity,reason
+admin,192.0.2.10,3,2025-11-19 10:03:00,HIGH,Successful login after 3 failed attempts within 0:05:00

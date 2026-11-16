@@ -1,0 +1,6 @@
+--- SOC SHIFT SUMMARY ---
+Total alerts: 2
+HIGH severity: 1
+MEDIUM severity: 1
+LOW severity: 0
+OPEN alerts: 2

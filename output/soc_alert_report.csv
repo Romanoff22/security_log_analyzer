@@ -1,0 +1,3 @@
+incident_id,alert_type,username,source_ip,severity,timestamp,reason,status,recommended_action
+INC-001,Failed Logins Followed by Success,admin,192.0.2.10,HIGH,2025-11-19 10:03:00,Successful login after 3 failed attempts within 0:05:00,OPEN,Verify whether the successful login was authorized and review subsequent account activity.
+INC-002,Potential Brute Force,admin,192.0.2.50,MEDIUM,2025-11-19 15:02:00,3 failed login attempts within 0:05:00,OPEN,Review failed login events and investigate the source IP address.
